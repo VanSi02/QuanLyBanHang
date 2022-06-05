@@ -187,7 +187,7 @@ public class KhachHangView extends JFrame {
 		txtsdt.setBounds(159, 183, 142, 21);
 		contentPane.add(txtsdt);
 		
-		Button button = new Button("Them");
+		Button button = new Button("ThemHang");
 		button.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
